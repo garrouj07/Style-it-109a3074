@@ -1,0 +1,29 @@
+td
+{
+	border-style: solid;
+	border-color: yellow;
+	border-width: 4px;
+	width:150px;
+	height: 50px;
+}
+body
+{
+	background-color: blue;
+}
+h1
+{
+	color: yellow;
+}
+h2
+{
+	color: yellow;
+}
+th
+{
+	color: yellow;
+}
+input {
+	color: red;
+	width: 100%;
+   	height: 100%;
+}
